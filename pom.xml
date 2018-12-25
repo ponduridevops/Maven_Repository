@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>Devops</groupId>
   <artifactId>DevopsProject</artifactId>
-  <packaging>war</packaging>
-  <version>1.3-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  <version>1.4-SNAPSHOT</version>
   <name>DevopsProject</name>
   <url>http://maven.apache.org</url>
   <dependencies>
